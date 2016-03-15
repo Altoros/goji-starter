@@ -1,0 +1,4 @@
+applications:
+- name: goji-starter
+  path: .
+  buildpack: go_buildpack

@@ -1,0 +1,32 @@
+{
+	"ImportPath": "github.com/nobodyzzz/goji-starter",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/cloudfoundry-community/go-cfenv",
+			"Comment": "v1.12-2-gb4bebec",
+			"Rev": "b4bebec47a425334d2a076cf99329464c9e611f3"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-83-g165a352",
+			"Rev": "165a3529e799da61ab10faed1fabff3662d6193f"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/mapstructure",
+			"Rev": "281073eb9eb092240d33ef253c404f1cca550309"
+		},
+		{
+			"ImportPath": "goji.io",
+			"Comment": "v1.0-5-g186fdae",
+			"Rev": "186fdaee47961b336e41716140ce0bd1ecefe98c"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "6acef71eb69611914f7a30939ea9f6e194c78172"
+		}
+	]
+}
